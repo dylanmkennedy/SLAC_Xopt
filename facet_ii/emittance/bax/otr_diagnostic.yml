@@ -1,0 +1,14 @@
+array_data_suffix: Image:ArrayData
+array_n_cols_suffix: Image:ArraySize0_RBV
+array_n_rows_suffix: Image:ArraySize1_RBV
+bounding_box_half_width: 3.0
+min_log_intensity: 4.0
+n_fitting_restarts: 1
+resolution_suffix: RESOLUTION
+resolution: 19.24
+save_image_location: null
+screen_name: OTRS:HTR:330
+testing: False
+verbose: true
+wait_time: 1.0
+beam_shutter_pv: TPR:LGUN:TS01:0:TRG00_SYS2_TCTL
